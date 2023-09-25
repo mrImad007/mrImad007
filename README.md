@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/imadeddinezaoui" target="blank"><img src="https://img.shields.io/twitter/follow/imadeddinezaoui?logo=twitter&style=for-the-badge" alt="imadeddinezaoui" /></a> </p>
 
-- 📫 How to reach me **imadeddinezaoui@gmail.com**
+- 📫 How to reach me **imadeddinzaoui@gmail.com**
 
 - ⚡ Fun fact **I'm a musician too.**
 
